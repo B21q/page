@@ -41,8 +41,8 @@ export default function About() {
                   Scrum Master
                 </p>
                 <h1 className="text-gray-200 py-2 text-lg font-open">
-                  Página do navegador web Thorium, desenvolvida com NextJs,
-                  Tailwindcss e Typescript.
+                  Facilitador ágil e líder de equipe, maximizando a eficiência
+                  na entrega iterativa.
                 </h1>
               </div>
             </div>
