@@ -29,7 +29,7 @@ export default function Contact() {
               EMAIL
             </p>
             <h1 className="font-open text-gray-300 pt-2 text-lg">
-              yanelicia58@gmail.com
+              btwooneq@gmail.com
             </h1>
           </div>
         </div>
