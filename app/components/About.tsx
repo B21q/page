@@ -1,6 +1,6 @@
 export default function About() {
   return (
-    <main className="h-max lg:h-screen xl:h-screen flex flex-col items-center justify-end bg-bg bg-[radial-gradient(#171518_1px,transparent_1px)] [background-size:16px_16px]">
+    <main className="h-max lg:h-screen xl:h-screen flex flex-col items-center justify-center bg-bg bg-[radial-gradient(#171518_1px,transparent_1px)] [background-size:16px_16px]">
       <div className="flex flex-col gap-16 mx-4 md:mx-8 lg:mx-44 xl:mx-44">
         <section>
           <h1 className="flex text-gray-100 font-manrope text-4xl drop-shadow-xl">
